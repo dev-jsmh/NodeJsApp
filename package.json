@@ -1,0 +1,13 @@
+{
+  "name": "programa-2",
+  "version": "1.0.5",
+  "description": "Programa #2",
+  "main": "app.js",
+  "scripts": {
+    "programa-2-jhonatan": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jhonatan Samuel Martinez Hernandez. ficha 2675861",
+  "license": "ISC"
+}
