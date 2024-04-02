@@ -1,0 +1,5 @@
+
+
+
+
+ejercicio para aplicar los comandos basicos de Git remoto y local 
